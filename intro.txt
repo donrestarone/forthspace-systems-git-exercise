@@ -1,2 +1,7 @@
 this is the beginning of a story
+<<<<<<< Updated upstream
 Hello!
+=======
+Hello!!!
+Wrong change
+>>>>>>> Stashed changes
